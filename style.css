@@ -1,0 +1,7 @@
+.container {
+    border: 3px solid red;
+}
+
+@media (min-width:320px) {
+    border: 
+}
